@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509590918649",
+    "firebase_url": "https://mongcaifood.firebaseio.com",
+    "project_id": "mongcaifood",
+    "storage_bucket": "mongcaifood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509590918649:android:f383a17eda262ac651d928",
+        "android_client_info": {
+          "package_name": "hoangluc.app.mongcaifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509590918649-1f40nnktbol6k0od0h65okhgt5g4jl3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywotRazo2rzso60C5K6VEczkJWMK9sSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509590918649-1f40nnktbol6k0od0h65okhgt5g4jl3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509590918649-ctrqallfch501p86lnidqgggge097cuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.firebase.mongcaiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
